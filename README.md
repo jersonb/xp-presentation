@@ -12,11 +12,14 @@
     <p>Kent Beck Criador do XP</p>
 </div>
 
+<hr/>
+
+## Livros sobre XP
+
 <div align="center">
     <img width="150px" src="./dev_agil_limpo.jpeg"/>
     <img width="150px" src="./extreme_programming.jpeg"/>
     <img width="150px" src="./programador_pragmatico.jpg"/>
-    <p>Livros Sobre XP</p>
 </div>
 <hr/>
 
@@ -33,17 +36,17 @@
 
 - Cliente Presente
 - Jogo do Planejamento
-- Stand up metting
-- **Programação em Par**
-- **Desenvolvimento Guiado Pelos Testes**
-- **Refactoring**
+- Stand up metting (Reunião de pé)
+- **Pair Programming (Programação em Par)**
+- **Desenvolvimento Guiado Pelos Testes (TDD)**
+- **Refactoring (Refatoração)**
 - Código Coletivo
 - Código Padronizado
-- **Designe Simples**
+- **Design Simples (de código)**
 - Metáfora
 - Ritmo Sustentável
 - Integração Contínua
-- Releases Curtos
+- Releases Curtos (Entregas pequenas)
 
 <hr/>
 
@@ -53,13 +56,17 @@
 
 > Escrita pelo PO representa a vontade do usuário
 
-![user story](./est01.png)
+<div align="center">
+    <img width="500px" src="./est01.png"/>
+</div>
 
 ### Caso de teste (Test Case)
 
 > Escrita pelo QA
 
-![test case](./test_case.png)
+<div align="center">
+    <img width="500px" src="./test_case.png"/>
+</div>
 
 ### Desenvolvimento Guiado a testes (TDD)
 
