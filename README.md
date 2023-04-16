@@ -16,10 +16,10 @@
 
 ## Livros sobre XP
 
-<div align="center">
-    <img width="150px" src="./dev_agil_limpo.jpeg"/>
-    <img width="150px" src="./extreme_programming.jpeg"/>
-    <img width="150px" src="./programador_pragmatico.jpg"/>
+<div style="width: 200px; display:flex;">
+    <img src="./dev_agil_limpo.jpeg"/>
+    <img src="./extreme_programming.jpeg"/>
+    <img src="./programador_pragmatico.jpg"/>
 </div>
 <hr/>
 
