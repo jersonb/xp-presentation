@@ -16,10 +16,8 @@
 
 ## Livros sobre XP
 
-||||
-|---|---|---|
 |![dev_agil_limpo](./dev_agil_limpo.jpeg)|![extreme_programming](./extreme_programming.jpeg)|![programador_pragmatico](./programador_pragmatico.jpg)|
-
+|---|---|---|
 ## Baseado em Valores e Práticas
 
 ### Valores
